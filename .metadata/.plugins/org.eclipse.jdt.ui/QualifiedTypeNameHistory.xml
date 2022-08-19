@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Square"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Manager"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IWorker"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Robot"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IWorkable"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IEatable"/>
+<fullyQualifiedTypeName name="com.aurionpro.test.PrivatedemoTest"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Privatedemo"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Defaultdemo"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Protecteddemo"/>
+<fullyQualifiedTypeName name="com.aurionpro.test.ProtecteddemoTest"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Publicdemo"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.VarargsDemo"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.FrontEndDeveloper"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.BackEndDeveloper"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IDeveloper"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.TaxCalculator"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.LogType"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ILogger"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.DBLogger"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+package com.aurionpro.model;
+
+public class DefaultdemoTest {
+
+	public static void main(String[] args) {
+		Defaultdemo obj = new Defaultdemo();
+		obj.msg();
+	}
+
+}

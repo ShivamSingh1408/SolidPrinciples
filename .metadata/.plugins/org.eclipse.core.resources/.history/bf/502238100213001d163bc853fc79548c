@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class FrontEndDeveloper implements IDeveloper {
+
+	@Override
+	public void develop() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

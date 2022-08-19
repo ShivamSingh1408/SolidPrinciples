@@ -1,0 +1,32 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.Rectangle;
+import com.aurionpro.model.Square;
+
+public class LspTest {
+
+	public static void main(String[] args) {
+		Rectangle rect = new Rectangle(10, 20);
+		if(isRectangle(rect)) {
+			System.out.println("Object is Rectangle");
+		}
+		else {
+			System.out.println("Object is not Rectangle");
+
+		}
+		System.out.println(rect);
+	
+
+		Square square = new Square(10);
+		System.out.println(square);
+
+	}
+
+	public static boolean isRectangle(Rectangle rectObj) {
+		double before=rectObj.getWidth();
+		rectObj.setHeight(20);
+		double after=rectObj.getWidth();
+		return before == after;
+
+	}
+}

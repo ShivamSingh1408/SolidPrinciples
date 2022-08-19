@@ -1,0 +1,7 @@
+package com.aurionpro.model;
+
+public class Protecteddemo {
+	protected void msg() {
+		System.out.println("My name is Shivam");
+	}
+}

@@ -1,0 +1,21 @@
+package com.aurionpro.model;
+
+public class TaxCalculator {
+	ILogger logger;
+	
+	public TaxCalculator(ILogger logger) {
+		this.logger = logger;
+	}
+	
+	public double calculateTax(int amount, int rate) {
+		double tax=0;
+		try {
+			tax = (amount/100)*rate;
+
+		} catch(Exception e) {
+			logger.log("An Erroe Occured");
+		}
+		return tax;
+	}
+
+}

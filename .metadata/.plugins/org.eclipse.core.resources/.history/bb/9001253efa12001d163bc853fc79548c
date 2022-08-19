@@ -1,0 +1,11 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.Protecteddemo;
+
+public class ProtecteddemoTest extends Protecteddemo {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

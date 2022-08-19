@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class PrivatedemoTest {
+
+	public static void main(String[] args) {
+		 Privatedemo obj = new Privatedemo();  
+//		   System.out.println(obj.age);//Compile Time Error  
+//		   obj.msg();//Compile Time Error  
+	}
+
+}
